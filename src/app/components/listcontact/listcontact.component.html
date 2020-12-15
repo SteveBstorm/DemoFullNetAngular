@@ -1,0 +1,10 @@
+<ul>
+    <li *ngFor="let item of listeContact">
+        <p><a [routerLink]="['/detail/'+item.id]">{{item.firstName}}</a>
+            &nbsp; | &nbsp;
+            <a [routerLink]="['/update/'+item.id]">Modifier</a>
+            &nbsp; | &nbsp;
+            <button (click)="delete(item.id)">Supprimer</button>
+        </p>
+    </li>
+</ul>

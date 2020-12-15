@@ -1,0 +1,16 @@
+<h3>Nouveau contact</h3>
+<form [formGroup]="fg" (ngSubmit)="create()">
+    
+    <label>Nom : </label>
+    <input type="text" formControlName="lastName"> <br />
+
+    <label>Prénom : </label>
+    <input type="text" formControlName="firstName"> <br />
+    
+    <label>E-mail : </label>
+    <input type="text" formControlName="email"> <br />
+    
+    
+    <button>Valider</button>
+
+</form>

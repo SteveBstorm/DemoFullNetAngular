@@ -1,0 +1,16 @@
+<h3>Mise à jour contact</h3>
+<form [formGroup]="fg" (ngSubmit)="update()">
+    
+    <label>Nom : </label>
+    <input type="text" formControlName="lastName"> <br />
+
+    <label>Prénom : </label>
+    <input type="text" formControlName="firstName"> <br />
+    
+    <label>E-mail : </label>
+    <input type="text" formControlName="email"> <br />
+    
+    
+    <button>Modifier</button>
+
+</form>
