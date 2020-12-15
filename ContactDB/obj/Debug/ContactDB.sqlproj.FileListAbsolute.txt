@@ -1,0 +1,10 @@
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\bin\Debug\ContactDB.dacpac
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\bin\Debug\ContactDB.dll
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\bin\Debug\ContactDB.pdb
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\ContactDB.sqlprojAssemblyReference.cache
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\Model.xml
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\refactor.xml
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\postdeploy.sql
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\predeploy.sql
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\ContactDB.dll
+C:\Users\Steve\source\Demo\DemoFullProject\ContactDB\obj\Debug\ContactDB.pdb

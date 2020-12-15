@@ -1,0 +1,14 @@
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\LOCAL.deps.json
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\LOCAL.dll
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\LOCAL.pdb
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\ADOToolbox.dll
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\bin\Debug\netcoreapp3.1\ADOToolbox.pdb
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.csprojAssemblyReference.cache
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.AssemblyInfo.cs
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.csproj.CopyComplete
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.dll
+C:\Users\Steve\source\Demo\DemoFullProject\LOCAL\obj\Debug\netcoreapp3.1\LOCAL.pdb
